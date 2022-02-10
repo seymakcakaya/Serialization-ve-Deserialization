@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_301" class="java.beans.XMLDecoder">
+ <object class="com.company.Book">
+  <void property="bookName">
+   <string>Fareler ve İnsanlar</string>
+  </void>
+  <void property="id">
+   <int>1</int>
+  </void>
+  <void property="publisher">
+   <string>SEL YAYINCILIK </string>
+  </void>
+  <void property="type">
+   <string>Roman</string>
+  </void>
+  <void property="writer">
+   <string>John Steinbeck </string>
+  </void>
+ </object>
+</java>
